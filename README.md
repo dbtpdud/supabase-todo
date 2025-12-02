@@ -59,6 +59,7 @@ Dev Tools	VS Code, Claude Desktop (MCP), Git
 
 <br>
 🚀 사용 방법
+
 1️⃣ 웹사이트 방문
 👉 https://dbtpdud.github.io/supabase-todo/
 
