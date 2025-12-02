@@ -7,9 +7,11 @@ Google OAuth 로그인까지 연동된 완성형 프로젝트입니다.
 🚀 Demo
 
 👉 Live Site: https://dbtpdud.github.io/supabase-todo/
+
 👉 Repository: https://github.com/dbtpdud/supabase-todo
 
 🖼️ Preview
+
 <img width="713" height="882" alt="image" src="https://github.com/user-attachments/assets/6bfa0324-2a55-4f34-88da-39643ec58293" />
 
 ✨ 주요 기능
