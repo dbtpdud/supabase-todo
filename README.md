@@ -43,13 +43,14 @@ Claude Desktop과 연동해 데이터베이스를 자연어로 분석 가능
 
 <br>
 🛠️ 기술 스택
-종류	기술
-Frontend	HTML, CSS, JavaScript
-Backend (Serverless)	Supabase Auth, Supabase Database
-Deployment	GitHub Pages
-Dev Tools	VS Code, Claude Desktop (MCP), Git
+종류	                   기술
+Frontend	               HTML, CSS, JavaScript
+Backend (Serverless)	   Supabase Auth, Supabase Database
+Deployment	             GitHub Pages
+Dev Tools	VS Code,       Claude Desktop (MCP), Git
 <br>
 📁 프로젝트 구조
+
 /
 
 ├── index.html        # 메인 페이지
