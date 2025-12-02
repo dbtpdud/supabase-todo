@@ -51,10 +51,15 @@ Dev Tools	VS Code, Claude Desktop (MCP), Git
 <br>
 📁 프로젝트 구조
 /
+
 ├── index.html        # 메인 페이지
+
 ├── login.html        # 로그인 페이지
+
 ├── app.js            # Todo 로직
+
 ├── auth.js           # 로그인/회원가입 로직
+
 └── README.md         # 프로젝트 설명 문서
 
 <br>
